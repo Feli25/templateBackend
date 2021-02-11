@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Feli25/templateBackend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
   }
 }
